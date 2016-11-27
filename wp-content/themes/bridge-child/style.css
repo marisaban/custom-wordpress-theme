@@ -1,0 +1,23 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://example.com/bridge-child/
+Description: Bridge Child Theme
+Author: Maria I Bances
+Author URI: http://example.com
+Template: Bridge
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: bridge-child
+
+*/
+
+@import url("../bridge/css/stylesheet.css");
+@import url("../bridge/css/stylesheet.min.css");
+@import url("../bridge/css/style_dynamic_responsive.css");
+@import url("../bridge/css/responsive.css");
+@import url("../bridge/css/vertical_responsive.css");
+@import url("../bridge/css/webkit_stylesheet.css");
+@import url("../bridge/css/toolbar.css");
+
